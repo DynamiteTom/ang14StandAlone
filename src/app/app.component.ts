@@ -7,7 +7,7 @@ import { Component, OnInit} from '@angular/core';
   selector: 'app-root',
   standalone: true,
   imports: [ CommonModule ],
-  template: '<h1 style="color: blue">Ang14 D StandAlone Blue</h1>'
+  template: '<h1 style="color: blue">Ang14 G   StandAlone Blue</h1>'
 })
 export class AppComponent implements OnInit{
   title = 'ang14StandAlone A';
