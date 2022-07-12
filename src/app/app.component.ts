@@ -7,17 +7,9 @@ import { Component, OnInit} from '@angular/core';
   selector: 'app-root',
   standalone: true,
   imports: [ CommonModule ],
-  template: '<h1 style="color: blue">Ang14 M StandAlone Blue</h1>'
+  template: '<h1 style="color: blue">Ang14 R StandAlone No Modules Blue</h1>'
 })
-export class AppComponent implements OnInit{
+export class AppComponent {
   title = 'ang14StandAlone A';
 
-  ngOnInit(){
-
-  }
-/*
-  ngOnChanges(changes: SimpleChanges){
-
-  }
-  */
 }
